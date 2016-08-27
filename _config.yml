@@ -1,0 +1,14 @@
+layout_spectrum: 0.22552565927617252
+typography_spectrum: 0.2580720183905214
+color:
+  brandStrength: 0.09839300834573805
+  lightness: 0.018759267637506127
+  saturation: 0.1446074831765145
+  rhythmicContrast: 0.004074083175510168
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: how-tos
