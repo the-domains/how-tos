@@ -22,3 +22,6 @@ navigation:
   - name: Subscribe
     id: e742fd67-39ea-45ce-b651-c3d8a776e375
     type: content
+  - name: JumpRope
+    id: 2effb55e-c46f-49fa-9a16-c2212f7ce9b6
+    type: content
