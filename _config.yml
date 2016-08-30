@@ -1,16 +1,16 @@
-typography_spectrum: 0.13531117886304855
-color:
-  brandStrength: 0.09839300834573805
-  lightness: 0.018759267637506127
-  saturation: 0.1446074831765145
-  rhythmicContrast: 0.004074083175510168
-  brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
 layout_spectrum: 0.7958448715507984
+typography_spectrum: 0.8227087962441146
+color:
+  brandStrength: 0.5636555966921151
+  lightness: 0.7350331731140614
+  saturation: 0.7663038189057261
+  rhythmicContrast: 0.5260739298537374
+  brandColors:
+    - '#729356'
+    - '#426139'
+    - '#92BD3F'
+    - '#FFFFFF'
+    - '#DDD08D'
 name: how-tos
 navigation:
   - name: Home
