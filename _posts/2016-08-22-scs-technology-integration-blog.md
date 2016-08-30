@@ -1,18 +1,16 @@
 ---
 id: d3f27951-abd8-4f21-a68a-d1eac3b2d876
-dateModified: '2016-08-28T12:41:39.459Z'
+dateModified: '2016-08-28T12:54:26.909Z'
 title: Subscribe Here
-datePublished: '2016-08-28T12:41:39.555Z'
+datePublished: '2016-08-28T12:54:27.382Z'
 author: []
-isBasedOnUrl: 'http://eepurl.com/ccoD9b'
 description: SCS Technology Integration Blog Email Forms
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-scs-technology-integration-blog.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: subscribe-here/index.html
 _type: MediaObject
 
 ---
