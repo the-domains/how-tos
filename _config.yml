@@ -16,3 +16,6 @@ navigation:
   - name: Home
     url: 'http://scs.vteducator.com/'
     type: external
+  - name: Contact
+    id: 55145417-7f4b-4c78-a93b-80b1ad042878
+    type: content
