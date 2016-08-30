@@ -29,6 +29,9 @@ navigation:
     url: >-
       http://vteducator.us13.list-manage1.com/subscribe?u=2b810cf5360242dcc50ed2227&id=5ab54d2b8b&orig-lang=1
     type: external
+  - name: JumpRope
+    id: 2effb55e-c46f-49fa-9a16-c2212f7ce9b6
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c91f2a-8206-49b5-aefc-1954eea0fcb7.jpg
 title: Technology Integration
