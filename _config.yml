@@ -25,9 +25,6 @@ navigation:
   - name: Contact
     id: 55145417-7f4b-4c78-a93b-80b1ad042878
     type: content
-  - name: Subscribe
-    id: e742fd67-39ea-45ce-b651-c3d8a776e375
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c91f2a-8206-49b5-aefc-1954eea0fcb7.jpg
 title: SCS Technology
