@@ -25,6 +25,10 @@ navigation:
   - name: Contact
     id: 55145417-7f4b-4c78-a93b-80b1ad042878
     type: content
+  - name: Subscribe
+    url: >-
+      http://vteducator.us13.list-manage1.com/subscribe?u=2b810cf5360242dcc50ed2227&id=5ab54d2b8b&orig-lang=1
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c91f2a-8206-49b5-aefc-1954eea0fcb7.jpg
 title: SCS Technology
