@@ -11,6 +11,8 @@ color:
     - '#FFFFFF'
     - '#DDD08D'
 layout_spectrum: 0.7958448715507984
+analytics:
+  google: UA-59206840-2
 author:
   url: vteducator.com
   name: vteducator.com
