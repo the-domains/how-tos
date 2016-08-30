@@ -1,17 +1,18 @@
 ---
-id: d3f27951-abd8-4f21-a68a-d1eac3b2d876
-dateModified: '2016-08-28T12:54:26.909Z'
-title: Subscribe Here
-datePublished: '2016-08-28T12:54:27.382Z'
-author: []
-description: SCS Technology Integration Blog Email Forms
-publisher: {}
-via: {}
+datePublished: '2016-08-28T14:09:51.928Z'
 sourcePath: _posts/2016-08-22-scs-technology-integration-blog.md
+inFeed: true
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-28T14:09:51.586Z'
+title: Subscribe Here
+id: d3f27951-abd8-4f21-a68a-d1eac3b2d876
+publisher: {}
+description: SCS Technology Integration Blog Email Forms
 starred: false
 url: subscribe-here/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Subscribe Here
