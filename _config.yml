@@ -22,11 +22,11 @@ navigation:
   - name: Home
     url: 'http://scs.vteducator.com/'
     type: external
-  - name: Contact
-    id: 55145417-7f4b-4c78-a93b-80b1ad042878
-    type: content
   - name: JumpRope
     id: 2effb55e-c46f-49fa-9a16-c2212f7ce9b6
+    type: content
+  - name: Contact
+    id: 55145417-7f4b-4c78-a93b-80b1ad042878
     type: content
   - name: Subscribe
     url: >-
