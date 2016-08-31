@@ -4,7 +4,7 @@
         <description><![CDATA[Technology Integration]]></description>
         <link>http://scs.vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 16:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 16:19:58 GMT</lastBuildDate>
         <atom:link href="http://scs.vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fantastic hearing from students about making PLPs meaningful! #vtmgi16]]></title>
@@ -26,6 +26,13 @@
             <link>http://scs.vteducator.com/subscribe-here/index.html</link>
             <guid isPermaLink="false">e742fd67-39ea-45ce-b651-c3d8a776e375</guid>
             <pubDate>Sun, 28 Aug 2016 14:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What to Do in Week One? by @rickwormeli2 The relationships we make determine learning. Take the time: http://www.ascd.org/publications/educational-leadership/sept16/vol74/num01/What-to-Do-in-Week-One%C2%A2.aspx ... #vted</p>]]></description>
+            <link>https://twitter.com/CVULearns/status/768760101616451584</link>
+            <guid isPermaLink="false">e2470b1b-3efc-49cd-95f4-352c5437b964</guid>
+            <pubDate>Mon, 29 Aug 2016 16:19:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Using Google Chats</h1><p>Recorded with ScreenCastify (https://www.screencastify.com), the screen video recorder for Chrome</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3813c3910f4984e0b27a489f3db0434f1428f430.jpg"></article>]]></description>
             <link>http://scs.vteducator.com/using-google-chats/index.html</link>
             <guid isPermaLink="false">dd90baa6-d1cb-46be-bfc1-52eeb23b41ae</guid>
-            <pubDate>Sun, 28 Aug 2016 12:51:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating Email Contact Groups]]></title>
-            <description><![CDATA[<article><h1>Creating Email Contact Groups</h1><p>Recorded with ScreenCastify (https://www.screencastify.com), the screen video recorder for Chrome</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ff2fc754ad9f2358d26a7cdc52616d45fb9c3d4.jpg"></article>]]></description>
-            <link>http://scs.vteducator.com/creating-email-contact-groups/index.html</link>
-            <guid isPermaLink="false">cd4a987f-372c-4952-b0a8-b373dee0b91c</guid>
             <pubDate>Sun, 28 Aug 2016 12:51:21 GMT</pubDate>
         </item>
     </channel>
