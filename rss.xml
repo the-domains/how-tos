@@ -4,7 +4,7 @@
         <description><![CDATA[Technology Integration]]></description>
         <link>http://scs.vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 16:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 16:32:26 GMT</lastBuildDate>
         <atom:link href="http://scs.vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fantastic hearing from students about making PLPs meaningful! #vtmgi16]]></title>
@@ -26,6 +26,13 @@
             <link>http://scs.vteducator.com/subscribe-here/index.html</link>
             <guid isPermaLink="false">e742fd67-39ea-45ce-b651-c3d8a776e375</guid>
             <pubDate>Sun, 28 Aug 2016 14:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"without interest, there is nothing behind it" ~@SCSLearns student commenting on PLPs | #vtmgi16</p>]]></description>
+            <link>https://twitter.com/Jeff_Badillo/status/748221857598410752</link>
+            <guid isPermaLink="false">ae6b7a01-a40a-4341-b876-cebaa1a1602f</guid>
+            <pubDate>Mon, 29 Aug 2016 16:32:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Accessing SBAC Scores in VACT</h1><p>Accessing SBAC Scores in VCAT</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eeeaf3204c980298bb007db2ff38f727564b0a3a.jpg"></article>]]></description>
             <link>http://scs.vteducator.com/accessing-sbac-scores-in-vact/index.html</link>
             <guid isPermaLink="false">e839e89c-2de5-45b0-91c1-ae9205edf193</guid>
-            <pubDate>Sun, 28 Aug 2016 12:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Signing in to Typing Club]]></title>
-            <description><![CDATA[<article><h1>Signing in to Typing Club</h1><p>Recorded with ScreenCastify (https://www.screencastify.com), the screen video recorder for Chrome</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b861966c6391c67a31533855c6875617d3a8cfd1.jpg"></article>]]></description>
-            <link>http://scs.vteducator.com/signing-in-to-typing-club/index.html</link>
-            <guid isPermaLink="false">fc430383-f0dd-4494-a43d-61e949e1d891</guid>
             <pubDate>Sun, 28 Aug 2016 12:51:22 GMT</pubDate>
         </item>
     </channel>
