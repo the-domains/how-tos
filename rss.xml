@@ -4,7 +4,7 @@
         <description><![CDATA[Technology Integration]]></description>
         <link>http://scs.vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 16:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 16:23:54 GMT</lastBuildDate>
         <atom:link href="http://scs.vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fantastic hearing from students about making PLPs meaningful! #vtmgi16]]></title>
@@ -26,6 +26,13 @@
             <link>http://scs.vteducator.com/subscribe-here/index.html</link>
             <guid isPermaLink="false">e742fd67-39ea-45ce-b651-c3d8a776e375</guid>
             <pubDate>Sun, 28 Aug 2016 14:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="RT @stboatervt: @SCSLearns Sharing the amazing work at Shelburne Community School #vtedpic.twitter.com/GRKTdwhRlT" src="https://pbs.twimg.com/media/CjOQgOJWkAA_08r.jpg:large">]]></description>
+            <link>https://twitter.com/CSSULearns/status/735107260846899200</link>
+            <guid isPermaLink="false">60f42a61-8699-449a-9f36-d87ab1d49704</guid>
+            <pubDate>Mon, 29 Aug 2016 16:23:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://scs.vteducator.com/signing-in-to-typing-club/index.html</link>
             <guid isPermaLink="false">fc430383-f0dd-4494-a43d-61e949e1d891</guid>
             <pubDate>Sun, 28 Aug 2016 12:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Google Chats]]></title>
-            <description><![CDATA[<article><h1>Using Google Chats</h1><p>Recorded with ScreenCastify (https://www.screencastify.com), the screen video recorder for Chrome</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3813c3910f4984e0b27a489f3db0434f1428f430.jpg"></article>]]></description>
-            <link>http://scs.vteducator.com/using-google-chats/index.html</link>
-            <guid isPermaLink="false">dd90baa6-d1cb-46be-bfc1-52eeb23b41ae</guid>
-            <pubDate>Sun, 28 Aug 2016 12:51:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
