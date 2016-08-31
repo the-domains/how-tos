@@ -1,4 +1,5 @@
-typography_spectrum: 0.8227087962441146
+layout_spectrum: 0.6458107803482562
+typography_spectrum: 0.9277442588936538
 color:
   brandStrength: 0.5636555966921151
   lightness: 0.7350331731140614
@@ -10,7 +11,6 @@ color:
     - '#92BD3F'
     - '#FFFFFF'
     - '#DDD08D'
-layout_spectrum: 0.7958448715507984
 analytics:
   google: UA-59206840-2
 author:
