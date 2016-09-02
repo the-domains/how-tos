@@ -1,4 +1,3 @@
-layout_spectrum: 0.6458107803482562
 typography_spectrum: 0.9277442588936538
 color:
   brandStrength: 0.5636555966921151
@@ -11,12 +10,15 @@ color:
     - '#92BD3F'
     - '#FFFFFF'
     - '#DDD08D'
+layout_spectrum: 0.6458107803482562
 analytics:
   google: UA-59206840-2
 author:
   url: vteducator.com
   name: vteducator.com
   email: jbadillo@cssu.org
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ced0393-080c-4092-8a56-9d4d0bccdaf9.jpg
 name: SCS
 navigation:
   - name: Home
