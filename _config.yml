@@ -17,8 +17,7 @@ author:
   url: vteducator.com
   name: vteducator.com
   email: jbadillo@cssu.org
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ced0393-080c-4092-8a56-9d4d0bccdaf9.jpg
+logo: null
 name: SCS
 navigation:
   - name: Home
