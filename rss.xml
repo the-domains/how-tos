@@ -4,7 +4,7 @@
         <description><![CDATA[Technology Integration]]></description>
         <link>http://scs.vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 03:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 00:34:09 GMT</lastBuildDate>
         <atom:link href="http://scs.vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fantastic hearing from students about making PLPs meaningful! #vtmgi16]]></title>
@@ -26,6 +26,13 @@
             <link>http://scs.vteducator.com/subscribe-here/index.html</link>
             <guid isPermaLink="false">e742fd67-39ea-45ce-b651-c3d8a776e375</guid>
             <pubDate>Sun, 28 Aug 2016 14:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Excited to be piloting at Shelburne Community School and many other great schools this fall.https://twitter.com/Jeff_Badillo/status/770448546080428032 ...</p>]]></description>
+            <link>https://twitter.com/myprotean/status/770635676870148096</link>
+            <guid isPermaLink="false">aef2e057-2fdf-45d2-9fb3-792eb7f9b55d</guid>
+            <pubDate>Wed, 31 Aug 2016 00:34:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=0V5BwTrQOCs&amp;feature=youtu.be</link>
             <guid isPermaLink="false">5d0c8a91-5325-4ec1-ad51-80343846a313</guid>
             <pubDate>Sun, 28 Aug 2016 13:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Setting up the Bookmarks Bar]]></title>
-            <description><![CDATA[<article><h1>Setting up the Bookmarks Bar</h1><p>Recorded with ScreenCastify (https://www.screencastify.com), the screen video recorder for Chrome</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbd1449ca638d3ef863578eb3416e059c04e6342.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Y236npo8IK4</link>
-            <guid isPermaLink="false">2101ce1f-c08c-425f-b14a-5a499de1286b</guid>
-            <pubDate>Sun, 28 Aug 2016 12:51:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
