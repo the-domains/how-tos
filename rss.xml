@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Technology Integration]]></title>
-        <description><![CDATA[Technology Integration]]></description>
+        <title><![CDATA[SCS]]></title>
+        <description><![CDATA[SCS]]></description>
         <link>http://scs.vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 14:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 15:49:12 GMT</lastBuildDate>
         <atom:link href="http://scs.vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fantastic hearing from students about making PLPs meaningful! #vtmgi16]]></title>
@@ -19,6 +19,13 @@
             <link>http://scs.vteducator.com/subscribe-here/index.html</link>
             <guid isPermaLink="false">e742fd67-39ea-45ce-b651-c3d8a776e375</guid>
             <pubDate>Wed, 31 Aug 2016 14:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cast for Education: Teach & learn from everywhere in the classroom]]></title>
+            <description><![CDATA[<article><h1>Cast for Education: Teach & learn from everywhere in the classroom</h1><p>Google Cast for Education is a free Chrome app that allows students and teachers to share their screens wirelessly from anywhere in the classroom, no new hardware required. Try it today at https://g.co/castforedu</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/299b30d737498627d47c27d186a5e339/croprotate.jpg?cropheight=251&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F07KFD5fGq_4%2Fhqdefault.jpg&x=0&y=54"></article>]]></description>
+            <link>http://scs.vteducator.com/cast-for-education-teach-and-learn-from-everywhere-in-the-cla/index.html</link>
+            <guid isPermaLink="false">66587a30-015b-410f-9d76-563c0448a5db</guid>
+            <pubDate>Thu, 01 Sep 2016 15:49:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beyond the Genius Bar: Cultivating Leadership With a Student Led Tech Team (EdSurge News)]]></title>
