@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-03T01:54:06.324Z'
+datePublished: '2016-09-03T01:56:54.585Z'
 sourcePath: _posts/2016-08-22-scs-technology-integration-blog.md
 inFeed: true
 isBasedOnUrl: 'http://eepurl.com/ccoD9b'
 author: []
 via: {}
-dateModified: '2016-09-03T01:54:05.895Z'
+dateModified: '2016-09-03T01:56:54.235Z'
 title: Technology Integration
 id: d3f27951-abd8-4f21-a68a-d1eac3b2d876
 publisher: {}
