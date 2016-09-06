@@ -1,24 +1,28 @@
-typography_spectrum: 0.9277442588936538
+title: Technology Integration
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Shelburne Community School
 color:
-  brandStrength: 0.5636555966921151
-  lightness: 0.7350331731140614
   saturation: 0.7663038189057261
-  rhythmicContrast: 0.5260739298537374
+  brandStrength: 0
+  lightness: 0.7350331731140614
   brandColors:
     - '#729356'
     - '#426139'
     - '#92BD3F'
     - '#FFFFFF'
     - '#DDD08D'
-layout_spectrum: 0.6458107803482562
-analytics:
-  google: UA-59206840-2
-author:
-  url: vteducator.com
-  name: vteducator.com
-  email: jbadillo@cssu.org
-logo: null
-name: SCS
+  rhythmicContrast: 0.5260739298537374
 navigation:
   - name: Home
     url: 'http://scs.vteducator.com/'
@@ -33,7 +37,15 @@ navigation:
     url: >-
       http://vteducator.us13.list-manage1.com/subscribe?u=2b810cf5360242dcc50ed2227&id=5ab54d2b8b&orig-lang=1
     type: external
+analytics:
+  google: UA-59206840-2
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c91f2a-8206-49b5-aefc-1954eea0fcb7.jpg
-title: Technology Integration
-description: Shelburne Community School
+name: SCS
+author:
+  url: vteducator.com
+  name: vteducator.com
+  email: jbadillo@cssu.org
+logo: null
+typography_spectrum: 0.9277442588936538
+layout_spectrum: 0.6458107803482562
