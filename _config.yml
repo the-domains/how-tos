@@ -1,3 +1,16 @@
+layout_spectrum: 0.7311264080926776
+typography_spectrum: 0.4109470664989203
+color:
+  saturation: 0.6851064
+  brandStrength: 0
+  lightness: 0.2680851
+  brandColors:
+    - '#729356'
+    - '#426139'
+    - '#92BD3F'
+    - '#FFFFFF'
+    - '#DDD08D'
+  rhythmicContrast: 0.7723404
 title: Technology Integration
 collections:
   - index:
@@ -12,17 +25,6 @@ collections:
     permalink:
       path: '/:title/'
 description: Shelburne Community School
-color:
-  saturation: 0.6851064
-  brandStrength: 0
-  lightness: 0.2680851
-  brandColors:
-    - '#729356'
-    - '#426139'
-    - '#92BD3F'
-    - '#FFFFFF'
-    - '#DDD08D'
-  rhythmicContrast: 0.7723404
 navigation:
   - name: Home
     url: 'http://scs.vteducator.com/'
@@ -47,5 +49,3 @@ author:
   email: jbadillo@cssu.org
 name: SCS
 logo: null
-typography_spectrum: 0.9277442588936538
-layout_spectrum: 1
