@@ -1,8 +1,8 @@
 ---
 id: e80f96f6-b924-4570-a2b9-874bcd79c560
-dateModified: '2016-08-31T14:39:55.707Z'
+dateModified: '2016-09-03T01:39:44.120Z'
 title: 'Fantastic hearing from students about making PLPs meaningful! #vtmgi16'
-datePublished: '2016-08-31T14:41:22.682Z'
+datePublished: '2016-09-03T01:39:47.784Z'
 author:
   - name: innovativeeducation
     url: 'https://www.instagram.com/innovativeeducation'
@@ -18,7 +18,7 @@ publisher:
 via: {}
 sourcePath: >-
   _posts/2016-08-22-fantastic-hearing-from-students-about-making-plps-meaningful.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
