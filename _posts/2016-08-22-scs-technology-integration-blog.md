@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-03T11:17:22.665Z'
+datePublished: '2016-09-03T11:29:12.879Z'
 sourcePath: _posts/2016-08-22-scs-technology-integration-blog.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-03T11:17:22.401Z'
+dateModified: '2016-09-03T11:29:12.613Z'
 title: Subscribe Here
 id: d3f27951-abd8-4f21-a68a-d1eac3b2d876
 publisher: {}
