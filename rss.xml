@@ -4,7 +4,7 @@
         <description><![CDATA[SCS]]></description>
         <link>http://scs.vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 11:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 11:09:00 GMT</lastBuildDate>
         <atom:link href="http://scs.vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Design Thinking?]]></title>
@@ -33,13 +33,6 @@
             <link>http://scs.vteducator.com/signing-out-scs-resources/index.html</link>
             <guid isPermaLink="false">9dbfbe49-18e8-45bb-8f74-da178e7d0d6d</guid>
             <pubDate>Mon, 29 Aug 2016 16:58:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JumpRope]]></title>
-            <description><![CDATA[<article><h1>JumpRope</h1><p>Tutorials for JumpRope's Standards Based Reporting Platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/46fd59b521c6a98c41a7d71a39eed064/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FWp0CoupAbxk%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>http://scs.vteducator.com/jumprope/index.html</link>
-            <guid isPermaLink="false">2effb55e-c46f-49fa-9a16-c2212f7ce9b6</guid>
-            <pubDate>Fri, 02 Sep 2016 14:56:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
