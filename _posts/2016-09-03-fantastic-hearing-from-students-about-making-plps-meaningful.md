@@ -28,13 +28,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BHUnCqkjDDL/?taken-by=innovativeeducation'
 title: 'Fantastic hearing from students about making PLPs meaningful! #vtmgi16'
-datePublished: '2016-09-03T11:11:15.322Z'
-dateModified: '2016-09-03T11:10:46.300Z'
+datePublished: '2016-09-03T11:17:22.667Z'
+dateModified: '2016-09-03T11:17:22.401Z'
 description: ''
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-09-03-fantastic-hearing-from-students-about-making-plps-meaningful.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
