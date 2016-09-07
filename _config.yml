@@ -1,3 +1,16 @@
+layout_spectrum: 0.6223091203719378
+typography_spectrum: 0.2600719244219363
+color:
+  saturation: 0.8382978
+  brandStrength: 0.3382979
+  lightness: 0.3808511
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  rhythmicContrast: 0.7595745
 title: ''
 collections:
   - index:
@@ -12,17 +25,6 @@ collections:
     permalink:
       path: '/:title/'
 description: ''
-color:
-  saturation: 0.8382978
-  brandStrength: 0.3382979
-  lightness: 0.3808511
-  brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
-  rhythmicContrast: 0.7595745
 navigation:
   - name: Home
     url: 'http://scs.vteducator.com/'
@@ -47,5 +49,3 @@ author:
   email: jbadillo@cssu.org
 name: SCS
 logo: null
-typography_spectrum: 0.6305550222750753
-layout_spectrum: 0.6787234
