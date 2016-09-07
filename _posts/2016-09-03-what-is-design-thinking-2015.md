@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=0V5BwTrQOCs&feature=youtu.be'
 title: What is Design Thinking (2015)
-datePublished: '2016-09-03T11:17:22.656Z'
-dateModified: '2016-09-03T11:17:22.401Z'
+datePublished: '2016-09-03T11:20:19.536Z'
+dateModified: '2016-09-03T11:20:19.318Z'
 via: {}
 sourcePath: _posts/2016-09-03-what-is-design-thinking-2015.md
 starred: false
