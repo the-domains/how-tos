@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-03T11:17:41.488Z'
+datePublished: '2016-09-03T11:29:01.612Z'
 sourcePath: _posts/2016-09-03-tech-integration.md
 author: []
 via: {}
-dateModified: '2016-09-03T11:17:41.181Z'
+dateModified: '2016-09-03T11:29:01.434Z'
 title: Technology Integration
 publisher: {}
 description: Shelburne Community School
