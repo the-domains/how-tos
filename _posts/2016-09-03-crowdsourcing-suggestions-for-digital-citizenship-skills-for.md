@@ -30,13 +30,13 @@ isBasedOnUrl: 'https://www.instagram.com/p/BFwdBbCP5Hd/'
 title: >-
   Crowdsourcing suggestions for digital citizenship skills for students at
   Dynamic Landscapes 2016
-datePublished: '2016-09-03T12:24:37.587Z'
-dateModified: '2016-09-03T12:24:37.369Z'
+datePublished: '2016-09-03T12:24:19.272Z'
+dateModified: '2016-09-03T12:24:15.199Z'
 description: ''
 via: {}
+starred: false
 sourcePath: >-
   _posts/2016-09-03-crowdsourcing-suggestions-for-digital-citizenship-skills-for.md
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
