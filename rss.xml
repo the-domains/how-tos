@@ -4,7 +4,7 @@
         <description><![CDATA[SCS]]></description>
         <link>http://scs.vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 11:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 11:16:57 GMT</lastBuildDate>
         <atom:link href="http://scs.vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Design Thinking (2015)]]></title>
@@ -47,6 +47,13 @@
             <link>http://scs.vteducator.com/jumprope/index.html</link>
             <guid isPermaLink="false">2effb55e-c46f-49fa-9a16-c2212f7ce9b6</guid>
             <pubDate>Sat, 03 Sep 2016 11:10:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Setting up the Bookmarks Bar]]></title>
+            <description><![CDATA[<article><h1>Setting up the Bookmarks Bar</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbd1449ca638d3ef863578eb3416e059c04e6342.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Y236npo8IK4</link>
+            <guid isPermaLink="false">2101ce1f-c08c-425f-b14a-5a499de1286b</guid>
+            <pubDate>Sat, 03 Sep 2016 11:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
